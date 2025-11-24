@@ -9,4 +9,4 @@ j'y ajouterai progrssivement des scripts Python, des note techinique et différe
 - Comprendre le worflow Git / GitHub
 
   # Autre
-  Toure Harouna - passionnée par l'informatique et en formation pour devevir tecchinicien système et réssaeux.
+  Toure Harouna - passionnée par l'informatique et en formation pour devevir tecchinicien système  et réssaeux.
