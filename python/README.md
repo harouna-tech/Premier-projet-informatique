@@ -1,13 +1,20 @@
 # Python — Exercices et scripts
 
-Ce dossier contient mes premiers scripts Python réalisés dans le cadre de mon apprentissage de la programmation.
+Ce dossier regroupe mes exercices Python réalisés dans le cadre de mon apprentissage de la programmation.
+Objectif : progresser de façon structurée (bases → logique → mini-projets).
 
-## 📚 Contenu
-- Exercices de base (variables, conditions, boucles)
-- Scripts simples pour comprendre la logique Python
-- Fichiers d’entraînement progressifs
+## Contenu
 
-## 🎯 Objectif
-- Acquérir les bases solides de Python
-- Comprendre la logique algorithmique
-- Préparer des projets plus avancés
+### 📁 exercices/
+Exercices courts pour travailler les fondamentaux.
+
+| Exercice | Fichier | Notions |
+|---|---|---|
+| Ex01 — Affichage | `exercices/ex01_affichage.py` | `print()`, chaînes de caractères |
+| Ex02 — Opérations | `exercices/ex02_operations.py` | variables, addition, affichage formaté |
+
+## Exécuter un script (local)
+```bash
+python3 exercices/ex01_affichage.py
+python3 exercices/ex02_operations.py
+
