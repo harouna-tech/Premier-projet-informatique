@@ -2,16 +2,24 @@
 
 ## 🎯 Objectif du projet
 Ce dépôt centralise mes premiers projets et exercices en informatique.
-Il me permet de développer progressivement mes compétences en :
+Il me permet de développer progressivement mes compétences techniques
+dans une logique de formation vers les métiers du système et réseau.
 
-- Python
-- Linux (système, permissions, utilisateurs, groupes)
+## 🧠 Compétences travaillées
+- Linux (permissions, utilisateurs, groupes, sécurité de base)
+- Python (bases de la programmation)
 - Virtualisation (VM / VMR)
-- Réseaux (bases)
-- Git & GitHub
+- Git & GitHub (gestion de versions et organisation de projets)
 
-Ce projet sert de **portfolio évolutif**.
+## 📂 Structure du dépôt
+- **Linux/** : exercices et apprentissage de l’administration système
+- **python/** : scripts et exercices Python
+- **vmr/** : virtualisation et environnements de test
 
----
+## 📈 Démarche
+Chaque dossier contient :
+- un README explicatif
+- des exercices progressifs
+- une logique jour par jour d’apprentissage
 
-## 📁 Structure du dépôt
+Ce dépôt sert de **portfolio évolutif**.
