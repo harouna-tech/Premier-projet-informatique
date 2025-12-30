@@ -19,4 +19,4 @@ en fonction des permissions effectives.
 ```bash
 ls -l
 groups
-id
+id 
